@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-timer/static/css/main.4c3e800c.css",
+    "main.js": "/react-timer/static/js/main.4069f56c.js",
+    "static/media/BM_JUA.ttf": "/react-timer/static/media/BM_JUA.bf12d2d886260d73277b.ttf",
+    "static/media/alarm_sound.mp3": "/react-timer/static/media/alarm_sound.8d88ed261bd550a40710.mp3",
+    "index.html": "/react-timer/index.html",
+    "main.4c3e800c.css.map": "/react-timer/static/css/main.4c3e800c.css.map",
+    "main.4069f56c.js.map": "/react-timer/static/js/main.4069f56c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c3e800c.css",
+    "static/js/main.4069f56c.js"
+  ]
+}
